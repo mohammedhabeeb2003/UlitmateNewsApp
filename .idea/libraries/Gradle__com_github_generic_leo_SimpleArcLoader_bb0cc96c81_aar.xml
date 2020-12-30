@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.generic-leo:SimpleArcLoader:bb0cc96c81@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/833af5391a1e33f2bb5f5765a7c21dee/jetified-SimpleArcLoader-bb0cc96c81/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/833af5391a1e33f2bb5f5765a7c21dee/jetified-SimpleArcLoader-bb0cc96c81/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/833af5391a1e33f2bb5f5765a7c21dee/jetified-SimpleArcLoader-bb0cc96c81/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.generic-leo/SimpleArcLoader/bb0cc96c81/bc781732a17b5b2fb1dd1e22f780823f82d57a79/SimpleArcLoader-bb0cc96c81-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

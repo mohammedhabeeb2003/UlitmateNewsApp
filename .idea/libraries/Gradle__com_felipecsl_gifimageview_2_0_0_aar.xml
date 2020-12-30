@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.felipecsl:gifimageview:2.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b006bac95261ce901b54a9d44911f224/jetified-gifimageview-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b006bac95261ce901b54a9d44911f224/jetified-gifimageview-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b006bac95261ce901b54a9d44911f224/jetified-gifimageview-2.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.felipecsl/gifimageview/2.0.0/36d85127c4849302c3055107226246fcacefce57/gifimageview-2.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.felipecsl/gifimageview/2.0.0/90d7f5290f84421e81d7d2b3d1176fa669bfec83/gifimageview-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

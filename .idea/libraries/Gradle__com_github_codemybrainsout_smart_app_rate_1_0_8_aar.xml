@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.codemybrainsout:smart-app-rate:1.0.8@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f6cd82bca449b9a13b962f5ecd5792c/jetified-smart-app-rate-1.0.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f6cd82bca449b9a13b962f5ecd5792c/jetified-smart-app-rate-1.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f6cd82bca449b9a13b962f5ecd5792c/jetified-smart-app-rate-1.0.8/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.codemybrainsout/smart-app-rate/1.0.8/b3266d942a55c233c990edeec77bc7fdc0571b27/smart-app-rate-1.0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.codemybrainsout/smart-app-rate/1.0.8/d3921d2248610060a74d33ea75f7ececb6bf7580/smart-app-rate-1.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
